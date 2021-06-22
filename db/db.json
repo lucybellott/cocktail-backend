@@ -1,66 +1,98 @@
 {
-  "books": [
+  "drinks": [
     {
       "id": 1,
       "name": "Margarita",
       "image": "https://assets.bonappetit.com/photos/5b69f16006027f654a27cd19/1:1/w_1600%2Cc_limit/ba-margarita-1.jpg",
-      "ingredients": ["Tequila", "Salt", "Lime juice", "Simple Syrup", "Lime Wedge"],
+      "ingredients": [
+        "Tequila",
+        "Salt",
+        "Lime juice",
+        "Simple Syrup",
+        "Lime Wedge"
+      ],
       "description": "Refreshing",
-      "likes": 23,
+      "likes": 40,
       "favorited": false
     },
     {
       "id": 2,
       "name": "Dark and Stormy",
       "image": "https://assets.bonappetit.com/photos/57add934f1c801a1038bcc4f/1:1/w_2560%2Cc_limit/spiced-dark-and-stormy3.jpg",
-      "ingredients": ["Dark Rum", "Ginger Beer", "Lime Juice","Lime wedges"],
+      "ingredients": [
+        "Dark Rum",
+        "Ginger Beer",
+        "Lime Juice",
+        "Lime wedges"
+      ],
       "description": "Very Tasty",
-      "likes": 23,
+      "likes": 29,
       "favorited": false
     },
     {
       "id": 3,
       "name": "Negroni",
       "image": "https://assets.bonappetit.com/photos/57acdb9753e63daf11a4dac4/1:1/w_1600%2Cc_limit/negroni.jpg",
-      "ingredients": ["Campari", "Sweet Vermouth", "Orange Peel"],
+      "ingredients": [
+        "Campari",
+        "Sweet Vermouth",
+        "Orange Peel"
+      ],
       "description": "Sweet and Bitter",
-      "likes": 23,
+      "likes": 32,
       "favorited": false
     },
     {
       "id": 4,
       "name": "Old fashioned",
       "image": "https://assets.bonappetit.com/photos/58409ff731e0aa8a6cd383f8/1:1/w_1600%2Cc_limit/bas-best-old-fashioned.jpg",
-      "ingredients": ["Rye Whiskey", "Bitters", "Sugar", "Orange peel", "Cherry"],
+      "ingredients": [
+        "Rye Whiskey",
+        "Bitters",
+        "Sugar",
+        "Orange peel",
+        "Cherry"
+      ],
       "description": "Strong and bold",
       "likes": 23,
       "favorited": false
-      },
+    },
     {
       "id": 5,
       "name": "Moscow Mule",
       "image": "https://assets.bonappetit.com/photos/57ae3c691b33404414975c01/1:1/w_1600%2Cc_limit/moscow-mule.jpg",
-      "ingredients": ["Vodka", "Ginger Beer", "Lime Juice"],
+      "ingredients": [
+        "Vodka",
+        "Ginger Beer",
+        "Lime Juice"
+      ],
       "description": "Great summer drink",
       "likes": 23,
       "favorited": false
-      
     },
     {
       "id": 6,
       "name": "Cosmopolitan",
       "image": "https://assets.bonappetit.com/photos/57acbfc8f1c801a1038bc722/1:1/w_1600%2Cc_limit/cosmopolitan.jpg",
-      "ingredients": ["Vodka", "Triple Sec", "Lime Juice","Cranberry Juice"],
+      "ingredients": [
+        "Vodka",
+        "Triple Sec",
+        "Lime Juice",
+        "Cranberry Juice"
+      ],
       "description": "Sweet and tasty",
-      "likes": 23,
+      "likes": 24,
       "favorited": false
-      
     },
     {
       "id": 7,
       "name": "Irish Coffee",
       "image": "https://assets.bonappetit.com/photos/57ad518553e63daf11a4ddec/1:1/w_2560%2Cc_limit/irishcoffee_backbar.jpg",
-      "ingredients": ["Coffee", "Irish Whiskey", "Whipped Cream"],
+      "ingredients": [
+        "Coffee",
+        "Irish Whiskey",
+        "Whipped Cream"
+      ],
       "description": "Hot and delicious",
       "likes": 23,
       "favorited": false
@@ -69,7 +101,12 @@
       "id": 8,
       "name": "Manhattan",
       "image": "https://keyassets-p2.timeincuk.net/wp/prod/wp-content/uploads/sites/63/2007/10/Manhattan-cocktail.jpg",
-      "ingredients": ["Bourbon", "Sweet Vermouth", "Bitters", "Orange Peel"],
+      "ingredients": [
+        "Bourbon",
+        "Sweet Vermouth",
+        "Bitters",
+        "Orange Peel"
+      ],
       "description": "Sky rocking drink",
       "likes": 23,
       "favorited": false
@@ -78,7 +115,12 @@
       "id": 9,
       "name": "Aperol Spritz",
       "image": "https://assets.bonappetit.com/photos/5aa9640bcb9d0f23ce858096/1:1/w_1600%2Cc_limit/aperol-spritz.jpg",
-      "ingredients": ["Aperol", "Champagne", "Club Soda", "Orange Slice"],
+      "ingredients": [
+        "Aperol",
+        "Champagne",
+        "Club Soda",
+        "Orange Slice"
+      ],
       "description": "Great Summer Cocktail",
       "likes": 23,
       "favorited": false
@@ -87,7 +129,13 @@
       "id": 10,
       "name": "Mojito",
       "image": "https://assets.bonappetit.com/photos/57acc0be1b33404414975167/1:1/w_1600%2Cc_limit/mojito.jpg",
-      "ingredients": ["Rum", "Mint", "Lime Juice", "Simple Syrup", "Club Soda"],
+      "ingredients": [
+        "Rum",
+        "Mint",
+        "Lime Juice",
+        "Simple Syrup",
+        "Club Soda"
+      ],
       "description": "A good classic",
       "likes": 23,
       "favorited": false
